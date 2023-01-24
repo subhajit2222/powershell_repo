@@ -1,5 +1,4 @@
 Install-Module Az
-Update-Module -Name Az
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 Connect-AzAccount -UseDeviceAuthentication
 
